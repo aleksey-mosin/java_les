@@ -1,2 +1,6 @@
+Square.java
+ Square
+Rectangle.java
+ Rectangle
 MyProgram3.java
  MyProgram3
